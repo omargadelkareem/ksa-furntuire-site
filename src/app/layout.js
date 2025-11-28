@@ -22,7 +22,7 @@ export default function RootLayout({ children }) {
     
         <head>
         {/* هنا الكود اللي نسخته من جوجل */}
-        <meta name="google-site-verification" content="WdlNgbthzAEx0yzGaOktynFQPx05iCwBHtUM867ekyA" />
+<meta name="google-site-verification" content="WdlNgbthzAEx0yzGaOktynFQPx05iCwBHtUM867ekyA" />
         {/* باقي الكود بتاعك */}
       </head>
     
