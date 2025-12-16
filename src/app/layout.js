@@ -22,10 +22,9 @@ export default function RootLayout({ children }) {
     
         <head>
         {/* هنا الكود اللي نسخته من جوجل */}
-<meta name="google-site-verification" content="WdlNgbthzAEx0yzGaOktynFQPx05iCwBHtUM867ekyA" />
+      <meta name="google-site-verification" content="to9_-KM4FCB8lqG8mQR-c9TPU9D2uc0JXHXnJkNHyr4" />
         {/* باقي الكود بتاعك */}
       </head>
-    
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
