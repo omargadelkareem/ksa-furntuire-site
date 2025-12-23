@@ -1,9 +1,9 @@
 
     /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: 'https://teema-express.vercel.app', // هتغيره بعدين بالدومين الحقيقي
+  siteUrl: 'https://temianewsite.vercel.app',
   generateRobotsTxt: true,
   generateIndexSitemap: false,
-  priority: 1.0,
-  changefreq: 'daily',
+  priority: 0.7,
+  changefreq: 'weekly',
 };
